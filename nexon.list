@@ -1,0 +1,15 @@
+# nexon & Blue Archive (蔚蓝档案国际服/亚服) 完整规则
+# 域名数: 11
+# 用法: RULE-SET,<URL>,Prox
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,bluearchive-asia.com
+DOMAIN-SUFFIX,bluearchive.io
+DOMAIN-SUFFIX,bluearchive.mx
+DOMAIN-SUFFIX,m-nexon.com
+DOMAIN-SUFFIX,nexon.co.jp
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.com.tw
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.net
+DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
