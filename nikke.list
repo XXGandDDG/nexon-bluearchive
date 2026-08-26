@@ -1,0 +1,12 @@
+# NIKKE 港澳台服规则集
+DOMAIN,hmt-lobby.nikke-kr.com
+DOMAIN,hmt-match.nikke-kr.com
+DOMAIN,cloud.nikke-kr.com
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke.hotcool.tw
+DOMAIN-SUFFIX,nikke.gamamobi.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,shiftup.co.kr
+DOMAIN-KEYWORD,nikke
