@@ -1,0 +1,24 @@
+# 棕色尘埃2 (Brown Dust 2) 国际服规则集
+
+# 官方主域与游戏内活动
+DOMAIN-SUFFIX,browndust2.com
+
+# 开发与运营方鉴权组件 (NEOWIZ / Pmang / GAMFS N)
+DOMAIN-SUFFIX,neowiz.com
+DOMAIN-SUFFIX,pmang.com
+DOMAIN-SUFFIX,gamfs.com
+DOMAIN-SUFFIX,gamfsn.com
+
+# 游戏核心 API、资源热更与服务器调度节点
+DOMAIN,bd2-api.browndust2.com
+DOMAIN,bd2-cdn.browndust2.com
+DOMAIN,bd2-static.browndust2.com
+DOMAIN,bd2-live-patch.browndust2.com
+DOMAIN,live-bd2.browndust2.com
+DOMAIN,auth.neowiz.com
+DOMAIN,account.neowiz.com
+DOMAIN,member.pmang.com
+DOMAIN,id.pmang.com
+
+# 关键词匹配兜底
+DOMAIN-KEYWORD,browndust2
