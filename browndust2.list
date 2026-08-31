@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,neowiz.com
 DOMAIN-SUFFIX,pmang.com
 DOMAIN-SUFFIX,gamfs.com
 DOMAIN-SUFFIX,gamfsn.com
+DOMAIN-SUFFIX,pmang.cloud
 
 # 游戏核心 API、资源热更与服务器调度节点
 DOMAIN,bd2-api.browndust2.com
